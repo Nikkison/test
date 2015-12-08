@@ -1,0 +1,10 @@
+//////Node.js
+	Node.js		:	v0.10.25	//Node.js本体
+	！Nodist		:	0.7.1		//Node.js管理ツール
+	npm			:	1.3.24		//Node.jsパッケージ管理ツール
+
+	**インストール方法　インストーラを用いた…node-v5.1.0-x64.msi
+	**参考サイト	http://www.nodebeginner.org/index-jp.html
+				！https://github.com/marcelklehr/nodist
+///////
+///////
